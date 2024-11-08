@@ -1,54 +1,54 @@
 # Hi! My name is Ayush Gupta 👋🏽
 
-🎯 Resilient and dynamic Computer Science student with a strong foundation in data science, software engineering, and UI/UX development. Brings a robust skill set and hands-on experience in managing and analyzing complex datasets, developing automation systems, and collaborating in cross-functional teams. Eager to apply analytical thinking and quick learning abilities to drive innovative projects and contribute to impactful solutions.
+🎯 Resilient and dynamic Computer Science student with a strong foundation in data science, software engineering, and UI/UX development. I bring a robust skill set and hands-on experience in managing and analyzing complex datasets, developing automation systems, and collaborating in cross-functional teams. Eager to apply analytical thinking and quick learning abilities to drive innovative projects and contribute to impactful solutions.
 
 ## 🛠️ Experience
 
 ### 🗣️ **Backend Team Lead | Flow AI**  
 **Oct 2023 - Present**  
-- Led a team of 5 interns from concept to deployment, promoting collaboration and achieving successful project delivery.
-- Managed backend infrastructure for an AI-driven SaaS platform, improving sales call efficiency by 23%.
-- Integrated REST APIs from ServiceNow, HubSpot, Zoom, and Salesforce, maintaining system stability using Python and Django.
-- Facilitated daily cross-functional team collaboration using GitHub, Jira, and Slack.
+- Led a team of 5 interns to deliver an AI B2B SaaS platform, improving sales rep efficiency by 23%.
+- Designed and implemented secure server-side features using Python & Django; integrated 20+ APIs from ServiceNow, HubSpot, Zoom, and Salesforce.
+- Optimized CI/CD pipelines, managing Azure infrastructure & product launch with Docker & Kubernetes.
+- Collaborated cross-functionally with Agile practices, enhancing project delivery speed and quality.
 
 ### 📚 **Undergraduate Teaching Assistant | UW Information School**  
 **Sep 2024 - Present**  
-- Led weekly lab sections for 25 students, providing feedback on fundamental programming concepts in R.
-- Supported students with debugging and encouraged their growth in learning.
+- Mentored 25 students weekly on programming fundamentals in R, providing personalized support.
+- Created an inclusive learning environment, improving overall student performance and engagement.
 
-### 📈 **Data Science Intern | Nsight, Inc.**  
+### 📈 **Data Analytics & Automation Intern | Nsight, Inc.**  
 **Jun 2024 - Aug 2024**  
-- Automated Salesforce workflows, increasing operational efficiency by 62%.
-- Led research initiatives, addressing complex consulting inquiries by analyzing Oracle and Salesforce CRM datasets using Python and R.
-- Constructed dashboards and formula-based workflows, optimizing lead-to-opportunity conversions.
+- Automated lead-to-opportunity workflows in Salesforce, increasing operational efficiency by 62% through the use of Python and Excel-based automation.
+- Analyzed and validated extensive Oracle and Salesforce datasets, ensuring data integrity and accuracy.
+- Spearheaded research initiatives, collaborating with 10+ vendors to deliver consulting insights; maintained comprehensive project documentation and SOPs.
 
-### 🧑🏽‍💻 **Software Development Intern | Seam**  
+### 🧑🏽‍💻 **Software Automation Intern | Seam**  
 **Jun 2024 - Aug 2024**  
-- Developed Selenium automation workflows, extracting data from 20+ online sources.
-- Built automation systems processing 10,000+ daily data points, driving efficiencies in real estate, LinkedIn, and product reviews.
+- Developed Selenium-based web scraping systems, automating data extraction across 20+ sources, processing over 10,000 data points daily.
+- Built automation workflows in Python for diverse industries, including real estate and product reviews, enhancing data accessibility and user experience.
 
-### 🥼 **Undergraduate Researcher | SEAL Lab UW**  
+### 🥼 **Undergraduate DevOps Researcher | SEAL Lab UW**  
 **Sep 2023 - Dec 2023**  
-- Conducted rigorous research in DevOps, technical writing, and internal communication, contributing to SEAL Lab's innovative projects.
+- Dedicated 15+ hours weekly to DevOps research, gaining experience in technical writing, internal communication, and automation development.
 
 ---
 
 ## 💡 Core Skills
 
 ### **Software Engineering:**  
-- Python, Java, C, C++, .NET, RESTful APIs, Docker, Kubernetes, Spring, Linux, Shell Scripting  
-- Automation, Debugging, AWS, Azure, GitHub, Selenium, Agile Methodology
+- Python, Java, C, C++, C#, AI, Machine Learning, RESTful APIs, DevOps, CI/CD, Containerization, Docker, Kubernetes, Spring, Linux, AWS, Azure, GitHub, Shell Scripting
 
 ### **Data Science:**  
-- Data Management, Business Analytics, ETL Design, Pandas, R, SQL, Postgres, MongoDB  
-- Tableau, Power BI, Dashboards, Excel
+- R, SQL, Business Analytics, Data Models, ETL Design, Data Architecture, Distributed Storage, Spark, MongoDB, Pandas, Tableau, Power BI, Postgres, Excel, Relational Databases
 
 ### **Web & Prototype Development:**  
-- UI/UX, React, Node.js, JavaScript, HTML, CSS, Flask, Django  
-- Figma, Low Latency Algorithms, Maven, Postman
+- UI/UX, React, Node.js, JavaScript, HTML, Flask, Django, Figma
+
+### **Automation & Tools:**  
+- Selenium, Postman, Test Automation, Confluence, Web Services, GitHub
 
 ### **Soft Skills:**  
-- Communication, Collaboration, Adaptability, Problem-Solving, Analytical Thinking
+- Collaboration, Communication, Problem-Solving, Adaptability, Customer Service
 
 ---
 
@@ -56,16 +56,16 @@
 
 **University of Washington**  
 **Degree:** Computer Science, Data Science, & Informatics  
-**Expected Graduation:** Spring 2026  
-- Relevant Coursework: Machine Learning, AI, User Experience & Design, Software Design, Hardware/Software, Data Structures & Parallelism, R, Algorithms, SQL & DBMS, Cybersecurity & Network Security
+**Expected Graduation:** June 2026  
+- Relevant Coursework: Machine Learning, Deep Learning, Artificial Intelligence, Data Science, Database Systems, Distributed Systems, Algorithms, Data Structures, Parallel Computing, Object-Oriented Programming, Cybersecurity, Network Security, User Experience & Design, Software Engineering
 
 ---
 
-## 🏅 Certifications & Awards
+## 🏅 Awards & Certifications
 
-- **National Merit Scholar**
-- **UW Purple & Gold Scholar**
-- **Robert Half International Student Scholar**  
+- **National Merit Scholar - Top 1,000 students nationwide**
+- **University of Washington Purple & Gold Scholar - Highest university level**
+- **Robert Half International Student Scholar - Sole award recipient**
 - **Oracle:** MySQL Database Service Explorer  
 - **Salesforce:** Opportunity Management Training  
 - **GitHub:** All In for Students Open Source Contributor  
