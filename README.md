@@ -1,89 +1,96 @@
-# Hi! My name is Ayush Gupta 👋🏽
+# 👋 Hey, I'm Ayush Gupta
 
-🎯 Resilient and dynamic Computer Science student with a strong foundation in data science, software engineering, and UI/UX development. I bring a robust skill set and hands-on experience in managing and analyzing complex datasets, developing automation systems, and collaborating in cross-functional teams. Eager to apply analytical thinking and quick learning abilities to drive innovative projects and contribute to impactful solutions.
+I'm a Computer Science student at the University of Washington passionate about building secure, scalable systems at the intersection of AI, automation, and data engineering. From AI-powered infrastructure tools to Chrome extensions solving real campus pain points, I love creating software that drives real-world impact.
 
-## 🛠️ Experience
+---
 
-### 🗣️ **Backend Team Lead | Flow AI**  
-**Oct 2023 - Present**  
-- Led a team of 5 interns to deliver an AI B2B SaaS platform, improving sales rep efficiency by 23%.
-- Designed and implemented secure server-side features using Python & Django; integrated 20+ APIs from ServiceNow, HubSpot, Zoom, and Salesforce.
-- Optimized CI/CD pipelines, managing Azure infrastructure & product launch with Docker & Kubernetes.
-- Collaborated cross-functionally with Agile practices, enhancing project delivery speed and quality.
+## 🛠️ Experience Highlights
 
-### 📚 **Undergraduate Teaching Assistant | UW Information School**  
-**Sep 2024 - Present**  
-- Mentored 25 students weekly on programming fundamentals in R, providing personalized support.
-- Created an inclusive learning environment, improving overall student performance and engagement.
+### 💼 **Software Development Intern @ GEICO**  
+*Jun 2025 – Present*  
+- Built internal tools to streamline hybrid IaaS provisioning for 20+ engineering teams.  
+- Developed an ML-powered chatbot (Random Forest Regression) for compute recommendation, reducing overprovisioning risk.  
+- Created a debugging assistant using **VectorDB**, surfacing semantically similar errors from 20+ Slack channels to speed up cross-team triage.
 
-### 📈 **Data Analytics & Automation Intern | Nsight, Inc.**  
-**Jun 2024 - Aug 2024**  
-- Automated lead-to-opportunity workflows in Salesforce, increasing operational efficiency by 62% through the use of Python and Excel-based automation.
-- Analyzed and validated extensive Oracle and Salesforce datasets, ensuring data integrity and accuracy.
-- Spearheaded research initiatives, collaborating with 10+ vendors to deliver consulting insights; maintained comprehensive project documentation and SOPs.
+### 🧠 **Founding Engineer @ Flow**  
+*Oct 2023 – Jun 2025*  
+- Led backend dev for an AI-driven B2B sales platform, using **Spark** to transform data from 20+ APIs.  
+- Built secure Django/PostgreSQL systems for ML-based lead scoring, increasing sales rep productivity by 23%.  
+- Managed CI/CD, Azure cloud infra, and Docker/K8s deployment for production releases.
 
-### 🧑🏽‍💻 **Software Automation Intern | Seam**  
-**Jun 2024 - Aug 2024**  
-- Developed Selenium-based web scraping systems, automating data extraction across 20+ sources, processing over 10,000 data points daily.
-- Built automation workflows in Python for diverse industries, including real estate and product reviews, enhancing data accessibility and user experience.
+### 📊 **Data Automation Intern @ Nsight, Inc.**  
+*Jun 2024 – Aug 2024*  
+- Automated Salesforce workflows with Python and Excel, boosting operational efficiency by 62%.  
+- Built interactive Tableau dashboards and validated large-scale Oracle CRM datasets.
 
-### 🥼 **Undergraduate DevOps Researcher | SEAL Lab UW**  
-**Sep 2023 - Dec 2023**  
-- Dedicated 15+ hours weekly to DevOps research, gaining experience in technical writing, internal communication, and automation development.
+### 🔄 **Software Automation Intern @ Seam**  
+*Jun 2024 – Aug 2024*  
+- Built Selenium scrapers for 20+ external sources, automating ingestion of 10,000+ structured data points.  
+- Designed Python pipelines to transform scraped content into analytics-ready datasets.
+
+### 🧑🏽‍🏫 **Undergraduate TA @ UW iSchool**  
+*Sep 2024 – Jun 2025*  
+- Taught R, data analysis, and ggplot2 to a class of 25 students; hosted weekly 1:1s and workshops.  
+- Designed inclusive learning materials to support a diverse student cohort.
 
 ---
 
 ## 💡 Core Skills
 
-### **Software Engineering:**  
-- Python, Java, C, C++, C#, AI, Machine Learning, RESTful APIs, DevOps, CI/CD, Containerization, Docker, Kubernetes, Spring, Linux, AWS, Azure, GitHub, Shell Scripting
+**Languages & Frameworks**  
+`Python` `Java` `C++` `JavaScript` `TypeScript` `HTML` `React` `Django` `Flask` `R`
 
-### **Data Science:**  
-- R, SQL, Business Analytics, Data Models, ETL Design, Data Architecture, Distributed Storage, Spark, MongoDB, Pandas, Tableau, Power BI, Postgres, Excel, Relational Databases
+**Data Engineering & ML**  
+`Spark` `PostgreSQL` `SQL` `VectorDB` `Pandas` `Hadoop` `ETL Pipelines` `Random Forest` `ML Ops`
 
-### **Web & Prototype Development:**  
-- UI/UX, React, Node.js, JavaScript, HTML, Flask, Django, Figma
+**DevOps & Infra**  
+`CI/CD` `Docker` `Kubernetes` `Azure` `AWS` `Distributed Systems` `GitHub Actions`
 
-### **Automation & Tools:**  
-- Selenium, Postman, Test Automation, Confluence, Web Services, GitHub
+**Automation & Tools**  
+`Selenium` `Postman` `Figma` `Tableau` `Power BI` `Excel`
 
-### **Soft Skills:**  
-- Collaboration, Communication, Problem-Solving, Adaptability, Customer Service
+---
+
+## 🧪 Featured Projects
+
+### 🛰️ **Beacon** — *1st Place Hackathon Winner (80+ teams)*  
+Developed a disaster response app that bridges communication gaps during emergencies with location-sharing and SMS fallback features.
+
+### 🗄️ **SimpleDB (Java)**  
+A from-scratch relational database with support for query planning, concurrency (2PL), memory management, and recovery logging.
+
+### 🔎 **Mini Google Search (C++)**  
+Built a full search engine with page ranking, indexing, and a live-query web interface — simulates Google’s crawl & serve pipeline.
+
+### 🎓 **RateMyProf Chrome Extension**  
+Integrated professor ratings into UW’s MyPlan for 100+ students to make smarter course selections based on teaching reviews.
+
+### 🧾 **UW CourseKeeper Extension**  
+Streamlined class registration by surfacing SLN codes and syncing alerts, helping 60+ students secure high-demand courses faster.
 
 ---
 
 ## 🎓 Education
 
 **University of Washington**  
-**Degree:** Computer Science, Data Science, & Informatics  
-**Expected Graduation:** June 2026  
-- Relevant Coursework: Machine Learning, Deep Learning, Artificial Intelligence, Data Science, Database Systems, Distributed Systems, Algorithms, Data Structures, Parallel Computing, Object-Oriented Programming, Cybersecurity, Network Security, User Experience & Design, Software Engineering
+*Bachelor of Science in Computer Science*  
+Minor: *Informatics & Data Science*  
+📍 Expected Graduation: Dec 2025
 
 ---
 
-## 🏅 Awards & Certifications
+## 🏅 Certifications
 
-- **National Merit Scholar - Top 1,000 students nationwide**
-- **University of Washington Purple & Gold Scholar - Highest university level**
-- **Robert Half International Student Scholar - Sole award recipient**
-- **Oracle:** MySQL Database Service Explorer  
-- **Salesforce:** Opportunity Management Training  
-- **GitHub:** All In for Students Open Source Contributor  
-- **Dubstech:** Data Visualization in Tableau & Power BI  
-- **Microsoft 365:** Master of Excel
+- Oracle: **MySQL Database Service Explorer**  
+- Salesforce: **Opportunity Management**  
+- GitHub: **All In for Students Contributor**  
+- Microsoft: **Excel Master**  
+- Dubstech: **Data Visualization (Tableau & Power BI)**
 
 ---
 
-## 🚀 Where I'm Heading
+## 📫 Connect with Me
 
-- **Innovate:** I’m eager to leverage my expertise in AI, automation, and data science to develop cutting-edge solutions that solve real-world problems.
-- **Grow:** I aim to stay at the forefront of technology, continuously learning new methodologies and tools.
-- **Contribute:** Excited to collaborate with teams to build impactful software and data-driven solutions that drive business success.
-
----
-
-## 📫 Contact
-
-- **Email:** [ayushg3512@gmail.com](mailto:ayushg3512@gmail.com)  
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/ayushgupta35)  
-- **Project Portfolio:** [Explore my work](https://ayushgupta35.github.io)
+📧 [ayushg3512@gmail.com](mailto:ayushg3512@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/ayushgupta35)  
+🌐 [Project Portfolio](https://ayushgupta35.github.io)  
